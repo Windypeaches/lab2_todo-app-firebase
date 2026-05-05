@@ -78,6 +78,12 @@ backend/.streamlit/secrets.toml
 * `POST /tasks` → tạo task
 * `GET /tasks` → lấy danh sách task
 
+  ---
+
+
+## Video demo
+* https://drive.google.com/drive/folders/1fsShr-OZebuiZgq5EJBIRJsGL9lGsh5a?usp=sharing
+
 ---
 
 ## Kết quả
